@@ -1,3 +1,3 @@
 # day7-git-practice
 Git branches and pull request practice
-About: version B
+About: version A
